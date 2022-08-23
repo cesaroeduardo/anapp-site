@@ -1,4 +1,5 @@
-<script>
+<!-- MARCAS OCULTO -->
+<!-- <script>
 import AboutClientSingle from './AboutClientSingle.vue';
 
 export default {
@@ -70,4 +71,4 @@ export default {
 			/>
 		</div>
 	</div>
-</template>
+</template> -->

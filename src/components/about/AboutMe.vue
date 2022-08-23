@@ -6,12 +6,18 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'Sou uma alma criativa e curiosa, que encontrou no design uma maneira de levar a vida exercitanto sempre as aréas que mais me interessam e estimulam. Estou sempre em busca de novas inspirações e antenada nas trends, tudo para produzir um conteúdo com mais valor e evoluir como profissional.',
 				},
 				{
 					id: 2,
 					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'Encontrei no Design uma forma de continuar a ser curiosa, descobrindo coisas novas e de certa forma fazendo arte. Mas, principalmente, o Design me possibilita utilizar uma das minhas ‘skills’ mais poderosas, a empatia. Com o passar dos anos, a gente vai aprendendo a ser mais dura, mas ver o lado bom das pessoas e entender o que se passa nelas, é essencial não só para o lado profissional, mas principalmente humano.',
+				},
+
+								{
+					id: 3,
+					bio:
+						'Cada vez mais, sei que meu trabalho vai muito além do visual: se trata de transmitir essências, uma mensagem para ser contada junto com boas histórias!',
 				},
 			],
 		};

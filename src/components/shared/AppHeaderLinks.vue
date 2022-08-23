@@ -31,13 +31,13 @@ export default {
 		<div
 			class="border-t-2 pt-3 sm:pt-0 sm:border-t-0 border-primary-light dark:border-secondary-dark"
 		>
-			<button
+			<!-- <button
 				class="font-general-medium sm:hidden block text-left text-md font-medium bg-pink-500 hover:bg-pink-600 text-white shadow-sm rounded-sm px-4 py-2 mt-2 duration-500"
 				@click="showModal()"
 				aria-label="Orçamento Botão"
 			>
 				orçamento
-			</button>
+			</button> -->
 		</div>
 	</div>
 </template>

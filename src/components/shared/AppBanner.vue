@@ -31,9 +31,9 @@ export default {
 			<h1
 				class="font-general-semibold text-4xl md:text-4xl xl:text-6xl text-center sm:text-left text-ternary-dark dark:text-primary-light"
 			>
-				Lorem ipsum dolor sit amet consectetur adispicing elit.
+				Lorem ipsum dolor sit amet consectetur adiscing elit
 			</h1>
-			<div class="flex justify-center sm:block">
+			<!-- <div class="flex justify-center sm:block" OCULTO>
 				<a
 					download="Stoman-Resume.pdf"
 					href="/files/Stoman-Resume.pdf"
@@ -49,7 +49,7 @@ export default {
 						>download cv</span
 					></a
 				>
-			</div>
+			</div> -->
 		</div>
 
 		<!-- Banner right illustration -->
