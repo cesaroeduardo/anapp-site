@@ -1,6 +1,6 @@
 <script>
 import feather from 'feather-icons';
-// FORMULARIO OCULTO
+// FORMULARIO OCULTOS
 // import ContactForm from '@/components/contact/ContactForm.vue';
 import ContactDetails from '@/components/contact/ContactDetails.vue';
 
